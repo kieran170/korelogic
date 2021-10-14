@@ -1,0 +1,21 @@
+.search-container {
+display: flex;
+align-items: center;
+justify-content: center;
+margin-bottom: 3%;
+}
+.single-music-container {
+    border: 2px solid black;
+    margin: 2%;
+}
+ul {
+    list-style: none;
+}
+li {
+    font-weight: 900;
+    padding: 1%;
+}
+.title {
+    font-size: 22px;
+    color: black;
+}
