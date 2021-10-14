@@ -54,7 +54,7 @@ const App = () => {
          )
         }) 
       :
-      <h2 style={{textAlign: "center"}} >Sorry, We Dont Have That Song 😢</h2>}
+      <h2 style={{textAlign: "center"}} >Sorry Pease Search Again, We Dont Have That Song 😢</h2>}
       </div>
     </Container>
   );
